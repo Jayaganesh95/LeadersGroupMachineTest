@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BottomNavigation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DDMalar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FindMyArea" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JasonApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ListAPP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM-Retrofit-Kotlin-Example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TestApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TestPedia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TravelLog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fz_mmovie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning-coding-scratch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/videosdk-rtc-android-java-sdk-example" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StudentRecords</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="student_major">Major</string>
+    <string name="student_detail">STUDENT DETAILS</string>
+    <string name="first_name_tv">FIRST NAME</string>
+    <string name="id_tv">ID</string>
+    <string name="age_tv">AGE</string>
+    <string name="gender_tv">GENDER</string>
+    <string name="major_tv">MAJOR</string>
+    <string name="gpa_tv">GPA</string>
+    <string name="last_name_tv1">last Name</string>
+    <string name="first_name_tv1">first name</string>
+    <string name="last_name1">last name</string>
+    <string name="id_tv1">id</string>
+    <string name="age_tv1">age</string>
+    <string name="gender_tv1">gender</string>
+    <string name="major_tv1">major</string>
+    <string name="gpa_tv1">gpa</string>
+    <string name="gpa_Tv">GPA</string>
+    <string name="gender_Tv">GENDER</string>
+    <string name="age_Tv">AGE</string>
+</resources>
