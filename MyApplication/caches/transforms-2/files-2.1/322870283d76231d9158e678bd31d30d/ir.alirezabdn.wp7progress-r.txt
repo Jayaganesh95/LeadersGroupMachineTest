@@ -1,0 +1,10 @@
+ir.alirezabdn.wp7progress
+attr animationDuration
+attr indicatorColor
+attr indicatorHeight
+attr indicatorRadius
+attr interval
+color colorAccent
+string app_name
+styleable WP10ProgressBar animationDuration indicatorColor indicatorHeight indicatorRadius interval
+styleable WP7ProgressBar animationDuration indicatorColor indicatorHeight indicatorRadius interval
